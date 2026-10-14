@@ -8,9 +8,9 @@ Faço software e música, e vivo encontrando alguma coisa nova pra fuçar. Meu h
 
 ## Projetos
 
-- **[Corneta](https://github.com/pitroldev/corneta)** — App para transmitir do OBS para várias plataformas pelo próprio PC, com chat unificado e gravação local opcional. Feito com Tauri, Rust e React.
+- **[Corneta](https://github.com/pitroldev/corneta)** — Comecei pra ajudar amigos streamers que queriam fazer multistream de um jeito simples. O app transmite do OBS para várias plataformas pelo próprio PC, com chat unificado e gravação local opcional. Feito com Tauri, Rust e React.
 - **[AO UERJ](https://github.com/pitroldev/ao-uerj-mobile-ts)** — Criei e mantenho o app há mais de cinco anos. Ultrapassou 20 mil instalações no Google Play e foi por causa desse trabalho que recebi o convite para atuar como consultor da DGTI da UERJ. Ele possui acesso ao Aluno Online, gerador de grades, mapa do campus e algumas outras coisinhas. É independente e de código aberto, em React Native e TypeScript.
-- **[POD X3 Live](https://github.com/pitroldev/pod-x3-live)** — Anotações sobre uma pedaleira que reinicia ao carregar certas versões do firmware. Inclui análise de hardware e firmware, hipóteses de reparo e medições que ainda preciso fazer.
+- **[POD X3 Live](https://github.com/pitroldev/pod-x3-live)** — Testes, engenharia reversa e experimentos com minha antiga pedaleira (da época em que eu tinha banda). Vou registrando o que descubro sobre o hardware e o firmware enquanto tento colocá-la pra tocar de novo.
 
 ## No blog
 
